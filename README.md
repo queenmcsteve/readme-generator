@@ -49,4 +49,4 @@ If you have any questions you can reach me via:
 
 # License
 
-[MIT](https://opensource.org/licenses/MIT)
+[This project is licensed under the terms of the MIT license](https://opensource.org/licenses/MIT)

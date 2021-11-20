@@ -1,8 +1,8 @@
-# Readme Generator
+# test
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description:
-This is a command line readme file generator
+test
 
 ## Table of contents:
 * [Installation](#installation)
@@ -13,16 +13,16 @@ This is a command line readme file generator
 * [License](#license)
 
 # Installation Instructions
-install `npm inquirer` and then run `node index.js`
+test
 
 # Usage
-N/A
+test
 
 # Contributing
-Feel free to fork this repo.
+test
 
 # Tests
-N/A
+test
 
 # Contact
 If you have any questions you can reach me via:
