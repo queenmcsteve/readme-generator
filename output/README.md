@@ -1,43 +1,34 @@
 # Readme Generator
-
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description:
-
-This is a command line readme file generator, using node.js & inquirer
+This is a command line readme file generator
 
 ## Table of contents:
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Contact](#contact)
-- [License](#license)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Contact](#contact)
+* [License](#license)
 
 # Installation Instructions
-
-Install npm/inquirer prior to running `node index.js` from command line.
+install `npm inquirer` and then run `node index.js`
 
 # Usage
-
-Feel free to use it however you please.
+N/A
 
 # Contributing
-
-You're welcome to fork and clone the repo. Not accepting any contributions.
+Feel free to fork this repo.
 
 # Tests
-
-There are no tests currently available for this app.
+N/A
 
 # Contact
-
 If you have any questions you can reach me via:
-
-- Github: [queenmcstevee](https://github.com/queenmcstevee)
+- Github: [queenmcsteve](https://github.com/queenmcsteve)
 - Email: [queen.mcsteve.666@gmail.com](mailto:queen.mcsteve.666@gmail.com)
 
 # License
+[This project is licensed under the terms of the MIT license.](https://opensource.org/licenses/MIT)
 
-[MIT](https://opensource.org/licenses/MIT)

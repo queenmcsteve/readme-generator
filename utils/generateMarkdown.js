@@ -28,7 +28,7 @@ function renderLicenseSection(license) {
   if (license === "None") {
     return "";
   } else {
-    return license;
+    return `This project is licensed under the terms of the ${license} license.`;
   }
 }
 
