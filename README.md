@@ -34,7 +34,7 @@ There are no tests currently available for this app.
 
 # Screenshots
 
-As this is a command line program, there are no screenshots. Please watch the following demo video to see the program in action.
+As this is a command line program, there are no screenshots. Please watch the following demo video to see the program in action. An example readme file created with the program can be found in the output folder.
 
 [Demonstration Video](https://watch.screencastify.com/v/4C4WWdbCz0kG146IEwkr)
 
